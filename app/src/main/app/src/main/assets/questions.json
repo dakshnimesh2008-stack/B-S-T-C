@@ -1,0 +1,1370 @@
+[
+{
+"id": "MA001",
+"subj": "MA",
+"topic": "Number Series",
+"q": "2, 6, 12, 20, 30, ?",
+"o": [
+"36",
+"40",
+"42",
+"44"
+],
+"ans": 2,
+"expl": "Differences are 4, 6, 8, 10, 12 → 30+12 = 42.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "MA002",
+"subj": "MA",
+"topic": "Analogy",
+"q": "Doctor : Hospital :: Teacher : ?",
+"o": [
+"Book",
+"Student",
+"Pen",
+"School"
+],
+"ans": 3,
+"expl": "A doctor works in a hospital; a teacher works in a school.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "MA003",
+"subj": "MA",
+"topic": "Odd One Out",
+"q": "Odd one out: Apple, Mango, Potato, Banana",
+"o": [
+"Apple",
+"Potato",
+"Banana",
+"Mango"
+],
+"ans": 1,
+"expl": "Potato is a vegetable; the others are fruits.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "MA004",
+"subj": "MA",
+"topic": "Coding-Decoding",
+"q": "If CAT = 24 (3+1+20), then DOG = ?",
+"o": [
+"22",
+"28",
+"26",
+"24"
+],
+"ans": 2,
+"expl": "D=4, O=15, G=7 → 4+15+7 = 26.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "MA005",
+"subj": "MA",
+"topic": "Blood Relations",
+"q": "Pointing to a man, Sita says, 'His mother is the only daughter of my mother.' How is the man related to Sita?",
+"o": [
+"Nephew",
+"Son",
+"Brother",
+"Father"
+],
+"ans": 1,
+"expl": "Only daughter of Sita's mother is Sita herself, so the man is Sita's son.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "MA006",
+"subj": "MA",
+"topic": "Direction Sense",
+"q": "A man walks 5 km north, turns right and walks 3 km, then turns right and walks 5 km. In which direction is he from the start?",
+"o": [
+"West",
+"South",
+"East",
+"North"
+],
+"ans": 2,
+"expl": "North 5, East 3, South 5 → he is 3 km east of the start.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "MA007",
+"subj": "MA",
+"topic": "Clock",
+"q": "What is the angle between the hands of a clock at 3:00?",
+"o": [
+"60°",
+"180°",
+"120°",
+"90°"
+],
+"ans": 3,
+"expl": "Each hour mark is 30°; 3 hours = 90°.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "MA008",
+"subj": "MA",
+"topic": "Calendar",
+"q": "If today is Monday, what day will it be after 10 days?",
+"o": [
+"Saturday",
+"Thursday",
+"Friday",
+"Wednesday"
+],
+"ans": 1,
+"expl": "10 mod 7 = 3 → Monday + 3 = Thursday.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "MA009",
+"subj": "MA",
+"topic": "Letter Series",
+"q": "A, C, E, G, ?",
+"o": [
+"H",
+"J",
+"I",
+"K"
+],
+"ans": 2,
+"expl": "Alternate letters are skipped: A, C, E, G, I.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "MA010",
+"subj": "MA",
+"topic": "Number Analogy",
+"q": "3 : 27 :: 4 : ?",
+"o": [
+"16",
+"81",
+"48",
+"64"
+],
+"ans": 3,
+"expl": "3³ = 27, so 4³ = 64.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "MA011",
+"subj": "MA",
+"topic": "Ranking",
+"q": "Ram is 7th from the top in a class of 30. What is his rank from the bottom?",
+"o": [
+"22",
+"24",
+"23",
+"25"
+],
+"ans": 1,
+"expl": "30 − 7 + 1 = 24.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "MA012",
+"subj": "MA",
+"topic": "Age Problems",
+"q": "A father is 3 times as old as his son. The sum of their ages is 48. What is the son's age?",
+"o": [
+"16 years",
+"10 years",
+"14 years",
+"12 years"
+],
+"ans": 3,
+"expl": "4x = 48 → x = 12.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "GK001",
+"subj": "GK",
+"topic": "Geography",
+"q": "Which is the largest district of Rajasthan by area?",
+"o": [
+"Barmer",
+"Jodhpur",
+"Jaisalmer",
+"Bikaner"
+],
+"ans": 2,
+"expl": "Jaisalmer is the largest district by area.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "GK002",
+"subj": "GK",
+"topic": "Geography",
+"q": "The Luni river originates from which place?",
+"o": [
+"Kamalnath hills",
+"Alwar hills",
+"Nag Pahar (Ajmer)",
+"Khamnor hills"
+],
+"ans": 2,
+"expl": "Luni rises in the Nag Pahar hills of the Aravalli near Ajmer.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "GK003",
+"subj": "GK",
+"topic": "Polity",
+"q": "When is Rajasthan Day celebrated?",
+"o": [
+"1 November",
+"15 August",
+"26 January",
+"30 March"
+],
+"ans": 3,
+"expl": "Greater Rajasthan was formed on 30 March 1949.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "GK004",
+"subj": "GK",
+"topic": "Geography",
+"q": "What is the highest peak of the Aravalli range?",
+"o": [
+"Guru Shikhar",
+"Sunda Mata",
+"Achalgarh",
+"Nag Pahar"
+],
+"ans": 0,
+"expl": "Guru Shikhar at Mount Abu is about 1722 m high.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "GK005",
+"subj": "GK",
+"topic": "Culture",
+"q": "What is the state bird of Rajasthan?",
+"o": [
+"Godawan (Great Indian Bustard)",
+"Sparrow",
+"Peacock",
+"Sarus crane"
+],
+"ans": 0,
+"expl": "The Godawan is the state bird.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "GK006",
+"subj": "GK",
+"topic": "History",
+"q": "In which year was the Battle of Haldighati fought?",
+"o": [
+"1568",
+"1576",
+"1556",
+"1527"
+],
+"ans": 1,
+"expl": "Maharana Pratap fought Akbar's army led by Man Singh in 1576.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "GK007",
+"subj": "GK",
+"topic": "History",
+"q": "In which district is the Harappan site Kalibangan located?",
+"o": [
+"Churu",
+"Hanumangarh",
+"Bikaner",
+"Jaisalmer"
+],
+"ans": 1,
+"expl": "Kalibangan is on the Ghaggar (Saraswati) bed in Hanumangarh.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "GK008",
+"subj": "GK",
+"topic": "Geography",
+"q": "Ranthambore National Park is in which district?",
+"o": [
+"Karauli",
+"Alwar",
+"Bharatpur",
+"Sawai Madhopur"
+],
+"ans": 3,
+"expl": "Ranthambore is in Sawai Madhopur district.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "GK009",
+"subj": "GK",
+"topic": "History",
+"q": "Who built Kumbhalgarh fort?",
+"o": [
+"Maharana Kumbha",
+"Rao Jodha",
+"Maharana Pratap",
+"Rana Sanga"
+],
+"ans": 0,
+"expl": "Maharana Kumbha built it in the 15th century.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "GK010",
+"subj": "GK",
+"topic": "Culture",
+"q": "The Pushkar Fair is held in which Hindu month?",
+"o": [
+"Chaitra",
+"Kartik",
+"Shravan",
+"Phalgun"
+],
+"ans": 1,
+"expl": "It takes place around Kartik Purnima.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "GK011",
+"subj": "GK",
+"topic": "Polity",
+"q": "Where is the principal seat of the Rajasthan High Court?",
+"o": [
+"Udaipur",
+"Jaipur",
+"Ajmer",
+"Jodhpur"
+],
+"ans": 3,
+"expl": "The principal seat is at Jodhpur, with a bench at Jaipur.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "GK012",
+"subj": "GK",
+"topic": "Polity",
+"q": "How many members does the Rajasthan Legislative Assembly have?",
+"o": [
+"250",
+"200",
+"288",
+"150"
+],
+"ans": 1,
+"expl": "Rajasthan Vidhan Sabha has 200 seats.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "TA001",
+"subj": "TA",
+"topic": "Learning Theories",
+"q": "The 'Trial and Error' theory of learning was proposed by:",
+"o": [
+"Piaget",
+"Thorndike",
+"Vygotsky",
+"Pavlov"
+],
+"ans": 1,
+"expl": "Thorndike's connectionism is based on trial and error.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "TA002",
+"subj": "TA",
+"topic": "CCE",
+"q": "What does CCE stand for?",
+"o": [
+"Central Curriculum Evaluation",
+"Constant and Common Examination",
+"Class and College Education",
+"Continuous and Comprehensive Evaluation"
+],
+"ans": 3,
+"expl": "CCE evaluates the whole child throughout the year.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "TA003",
+"subj": "TA",
+"topic": "Education Policy",
+"q": "The school structure proposed in NEP 2020 is:",
+"o": [
+"5+3+3+4",
+"10+2+3",
+"5+3+4+3",
+"8+4+3"
+],
+"ans": 0,
+"expl": "NEP 2020 replaced 10+2 with 5+3+3+4.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "TA004",
+"subj": "TA",
+"topic": "Learning Theories",
+"q": "The concept of the Zone of Proximal Development was given by:",
+"o": [
+"Vygotsky",
+"Skinner",
+"Thorndike",
+"Bruner"
+],
+"ans": 0,
+"expl": "ZPD is the gap between what a child can do alone and with help.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "TA005",
+"subj": "TA",
+"topic": "Education Policy",
+"q": "The Right to Education Act was enacted in:",
+"o": [
+"2005",
+"2002",
+"2012",
+"2009"
+],
+"ans": 3,
+"expl": "RTE Act 2009 came into force on 1 April 2010.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "TA006",
+"subj": "TA",
+"topic": "Evaluation",
+"q": "Evaluation carried out during instruction to improve learning is called:",
+"o": [
+"Summative evaluation",
+"Formative evaluation",
+"Terminal evaluation",
+"Placement evaluation"
+],
+"ans": 1,
+"expl": "Formative evaluation gives feedback while learning is happening.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "TA007",
+"subj": "TA",
+"topic": "Creativity",
+"q": "Divergent thinking is mainly associated with:",
+"o": [
+"Imitation",
+"Memorisation",
+"Obedience",
+"Creativity"
+],
+"ans": 3,
+"expl": "Divergent thinking generates many different ideas.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "TA008",
+"subj": "TA",
+"topic": "Learning Theories",
+"q": "Operant conditioning was proposed by:",
+"o": [
+"B.F. Skinner",
+"Kohler",
+"Pavlov",
+"Bandura"
+],
+"ans": 0,
+"expl": "Skinner studied how consequences shape behaviour.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "TA009",
+"subj": "TA",
+"topic": "Education Policy",
+"q": "The Kothari Commission (1964–66) was headed by:",
+"o": [
+"A. L. Mudaliar",
+"S. Radhakrishnan",
+"D.S. Kothari",
+"Zakir Husain"
+],
+"ans": 2,
+"expl": "It recommended the 10+2+3 pattern.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "TA010",
+"subj": "TA",
+"topic": "Communication Skills",
+"q": "Which of the following is a barrier to effective communication?",
+"o": [
+"Clarity",
+"Feedback",
+"Noise",
+"Active listening"
+],
+"ans": 2,
+"expl": "Noise distorts the message between sender and receiver.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "TA011",
+"subj": "TA",
+"topic": "Leadership Quality",
+"q": "A democratic teacher typically:",
+"o": [
+"Decides everything alone",
+"Avoids guiding students",
+"Encourages students to take part in decisions",
+"Punishes dissent"
+],
+"ans": 2,
+"expl": "Democratic leadership values participation.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "TA012",
+"subj": "TA",
+"topic": "Professional Attitude",
+"q": "When a slow learner struggles in class, the teacher should:",
+"o": [
+"Ignore the student",
+"Seat the student at the back",
+"Give extra attention and suitable support",
+"Scold the student"
+],
+"ans": 2,
+"expl": "Inclusive practice means supporting every learner.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "EN001",
+"subj": "EN",
+"topic": "Synonym",
+"q": "Choose the synonym of 'Rapid':",
+"o": [
+"Quick",
+"Weak",
+"Slow",
+"Late"
+],
+"ans": 0,
+"expl": "Rapid means fast.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "EN002",
+"subj": "EN",
+"topic": "Antonym",
+"q": "Choose the antonym of 'Ancient':",
+"o": [
+"Historic",
+"Old",
+"Aged",
+"Modern"
+],
+"ans": 3,
+"expl": "Ancient means very old; modern is the opposite.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "EN003",
+"subj": "EN",
+"topic": "Articles",
+"q": "She is ___ honest girl.",
+"o": [
+"an",
+"a",
+"the",
+"no article"
+],
+"ans": 0,
+"expl": "'Honest' begins with a vowel sound, so 'an'.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "EN004",
+"subj": "EN",
+"topic": "Prepositions",
+"q": "He is good ___ mathematics.",
+"o": [
+"at",
+"on",
+"with",
+"in"
+],
+"ans": 0,
+"expl": "'Good at' is the correct collocation.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "EN005",
+"subj": "EN",
+"topic": "Tense",
+"q": "I ___ been waiting since morning.",
+"o": [
+"have",
+"had been",
+"has",
+"am"
+],
+"ans": 0,
+"expl": "Present perfect continuous: have been waiting.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "EN006",
+"subj": "EN",
+"topic": "Spelling",
+"q": "Choose the correct spelling:",
+"o": [
+"Nesessary",
+"Necesary",
+"Necessary",
+"Neccessary"
+],
+"ans": 2,
+"expl": "Necessary has one c and two s.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "EN007",
+"subj": "EN",
+"topic": "One Word Substitution",
+"q": "One who loves books is called a:",
+"o": [
+"Bibliographer",
+"Misanthrope",
+"Bibliophile",
+"Philanthropist"
+],
+"ans": 2,
+"expl": "Biblio = book, phile = lover.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "EN008",
+"subj": "EN",
+"topic": "Narration",
+"q": "He said, \"I am happy.\" Choose the indirect speech.",
+"o": [
+"He said that he is happy.",
+"He told that he was happy.",
+"He said that he was happy.",
+"He said that I am happy."
+],
+"ans": 2,
+"expl": "Present tense shifts to past in indirect speech.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "EN009",
+"subj": "EN",
+"topic": "Connectives",
+"q": "He worked hard ___ he could pass.",
+"o": [
+"so that",
+"unless",
+"although",
+"but"
+],
+"ans": 0,
+"expl": "'So that' expresses purpose.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "EN010",
+"subj": "EN",
+"topic": "Voice",
+"q": "Change to passive: 'They made him captain.'",
+"o": [
+"He has made captain by them.",
+"He is made captain by them.",
+"He was making captain by them.",
+"He was made captain by them."
+],
+"ans": 3,
+"expl": "Simple past active becomes was/were + V3.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "EN011",
+"subj": "EN",
+"topic": "Correction of Sentences",
+"q": "Choose the correct sentence.",
+"o": [
+"Neither of the boys was present.",
+"Neither of the boys were present.",
+"Neither of the boys have present.",
+"Neither of the boys are present."
+],
+"ans": 0,
+"expl": "'Neither' takes a singular verb.",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "EN012",
+"subj": "EN",
+"topic": "Synonym",
+"q": "Choose the synonym of 'Benevolent':",
+"o": [
+"Angry",
+"Kind",
+"Selfish",
+"Cruel"
+],
+"ans": 1,
+"expl": "Benevolent means well-meaning and kind.",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "HI001",
+"subj": "HI",
+"topic": "पर्यायवाची",
+"q": "'आकाश' का पर्यायवाची शब्द है –",
+"o": [
+"गगन",
+"धरा",
+"सलिल",
+"कानन"
+],
+"ans": 0,
+"expl": "गगन, नभ, अम्बर आकाश के पर्याय हैं।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "HI002",
+"subj": "HI",
+"topic": "विलोम शब्द",
+"q": "'उत्थान' का विलोम शब्द है –",
+"o": [
+"पतन",
+"विकास",
+"उन्नति",
+"प्रगति"
+],
+"ans": 0,
+"expl": "उत्थान × पतन।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "HI003",
+"subj": "HI",
+"topic": "शब्द शुद्धि",
+"q": "शुद्ध शब्द चुनिए –",
+"o": [
+"परतीक्षा",
+"प्रतीछा",
+"प्रतिक्षा",
+"प्रतीक्षा"
+],
+"ans": 3,
+"expl": "शुद्ध वर्तनी 'प्रतीक्षा' है।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "HI004",
+"subj": "HI",
+"topic": "मुहावरे",
+"q": "'आँखों का तारा' मुहावरे का अर्थ है –",
+"o": [
+"अंधा होना",
+"क्रोधित होना",
+"धोखा देना",
+"बहुत प्यारा"
+],
+"ans": 3,
+"expl": "आँखों का तारा = अत्यंत प्रिय।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "HI005",
+"subj": "HI",
+"topic": "एक शब्द",
+"q": "'जिसका कोई शत्रु न हो' के लिए एक शब्द है –",
+"o": [
+"मित्र",
+"अजातशत्रु",
+"अशत्रु",
+"निःशत्रु"
+],
+"ans": 1,
+"expl": "अजातशत्रु = जिसका कोई शत्रु पैदा ही न हुआ हो।",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "HI006",
+"subj": "HI",
+"topic": "संधि",
+"q": "'विद्यालय' का संधि-विच्छेद है –",
+"o": [
+"विद्या + लय",
+"विद् + यालय",
+"विद्य + आलय",
+"विद्या + आलय"
+],
+"ans": 3,
+"expl": "आ + आ = आ (दीर्घ स्वर संधि)।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "HI007",
+"subj": "HI",
+"topic": "समास",
+"q": "'राजपुत्र' में कौन-सा समास है?",
+"o": [
+"द्वन्द्व समास",
+"द्विगु समास",
+"बहुव्रीहि समास",
+"तत्पुरुष समास"
+],
+"ans": 3,
+"expl": "राजा का पुत्र – संबंध कारक का लोप।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "HI008",
+"subj": "HI",
+"topic": "उपसर्ग",
+"q": "'अनुशासन' में उपसर्ग है –",
+"o": [
+"शासन",
+"अनुश",
+"अन",
+"अनु"
+],
+"ans": 3,
+"expl": "अनु + शासन।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "HI009",
+"subj": "HI",
+"topic": "प्रत्यय",
+"q": "'मानवता' में प्रत्यय है –",
+"o": [
+"वता",
+"मान",
+"आ",
+"ता"
+],
+"ans": 3,
+"expl": "मानव + ता।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "HI010",
+"subj": "HI",
+"topic": "वाक्य शुद्धि",
+"q": "शुद्ध वाक्य चुनिए –",
+"o": [
+"मैं विद्यालय जा रहा हूँ।",
+"मैं विद्यालय जाता रहा हैं।",
+"मैं विद्यालय जा रही हैं।",
+"मैं विद्यालय जा रहे हूँ।"
+],
+"ans": 0,
+"expl": "कर्ता 'मैं' (पुल्लिंग) के साथ 'जा रहा हूँ' सही है।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "HI011",
+"subj": "HI",
+"topic": "कहावतें",
+"q": "'ऊँची दुकान फीका पकवान' का अर्थ है –",
+"o": [
+"दिखावा अधिक, गुण कम",
+"महँगा सामान अच्छा",
+"पकवान स्वादिष्ट होना",
+"दुकान बड़ी होना"
+],
+"ans": 0,
+"expl": "बाहरी दिखावे के अनुरूप गुण न होना।",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "HI012",
+"subj": "HI",
+"topic": "पर्यायवाची",
+"q": "इनमें से 'चंद्रमा' का पर्यायवाची नहीं है –",
+"o": [
+"शशि",
+"राकेश",
+"दिनकर",
+"सुधाकर"
+],
+"ans": 2,
+"expl": "दिनकर सूर्य का नाम है।",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "SA001",
+"subj": "SA",
+"topic": "शब्दरूप",
+"q": "'राम' शब्दस्य द्वितीया एकवचनं रूपं किम्?",
+"o": [
+"रामम्",
+"रामेण",
+"रामः",
+"रामाय"
+],
+"ans": 0,
+"expl": "अकारान्त पुल्लिंग – द्वितीया एकवचन 'रामम्'।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "SA002",
+"subj": "SA",
+"topic": "शब्दरूप",
+"q": "'बालक' शब्दस्य तृतीया एकवचनं रूपं किम्?",
+"o": [
+"बालकाय",
+"बालकेन",
+"बालकः",
+"बालकस्य"
+],
+"ans": 1,
+"expl": "तृतीया एकवचन – 'बालकेन'।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "SA003",
+"subj": "SA",
+"topic": "धातुरूप",
+"q": "'गम्' धातोः लट्लकारे प्रथमपुरुषैकवचनं रूपं किम्?",
+"o": [
+"अगच्छत्",
+"गच्छतु",
+"गच्छति",
+"गमिष्यति"
+],
+"ans": 2,
+"expl": "गम् → गच्छ् – 'गच्छति'।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "SA004",
+"subj": "SA",
+"topic": "धातुरूप",
+"q": "'पठ्' धातोः लोट्लकारे प्रथमपुरुषैकवचनं रूपं किम्?",
+"o": [
+"पठेत्",
+"पठतु",
+"पठति",
+"अपठत्"
+],
+"ans": 1,
+"expl": "लोट् प्रथम पुरुष एकवचन – 'पठतु'।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "SA005",
+"subj": "SA",
+"topic": "धातुरूप",
+"q": "'भू' धातोः लङ्लकारे प्रथमपुरुषैकवचनं रूपं किम्?",
+"o": [
+"भवतु",
+"भवति",
+"भवेत्",
+"अभवत्"
+],
+"ans": 3,
+"expl": "लङ् में 'अ' आगम – 'अभवत्'।",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "SA006",
+"subj": "SA",
+"topic": "धातुरूप",
+"q": "'पठ्' धातोः विधिलिङ्लकारे प्रथमपुरुषैकवचनं रूपं किम्?",
+"o": [
+"अपठत्",
+"पठेत्",
+"पठतु",
+"पठति"
+],
+"ans": 1,
+"expl": "विधिलिङ् – 'पठेत्'।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "SA007",
+"subj": "SA",
+"topic": "उच्चारण स्थान",
+"q": "'अ' वर्णस्य उच्चारणस्थानं किम्?",
+"o": [
+"तालु",
+"कण्ठः",
+"मूर्धा",
+"ओष्ठौ"
+],
+"ans": 1,
+"expl": "अकुहविसर्जनीयानां कण्ठः।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "SA008",
+"subj": "SA",
+"topic": "उच्चारण स्थान",
+"q": "'उ' वर्णस्य उच्चारणस्थानं किम्?",
+"o": [
+"ओष्ठौ",
+"कण्ठः",
+"दन्ताः",
+"तालु"
+],
+"ans": 0,
+"expl": "उपूपध्मानीयानाम् ओष्ठौ।",
+"diff": "Easy",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "SA009",
+"subj": "SA",
+"topic": "सन्धि",
+"q": "'विद्या + आलयः' इत्यस्य सन्धियुक्तं रूपं तथा सन्धिः –",
+"o": [
+"विद्यालयः – यणसन्धिः",
+"विद्यालयः – दीर्घसन्धिः",
+"विद्यालयः – वृद्धिसन्धिः",
+"विद्यालयः – गुणसन्धिः"
+],
+"ans": 1,
+"expl": "आ + आ = आ, अतः दीर्घसन्धिः।",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "SA010",
+"subj": "SA",
+"topic": "सन्धि",
+"q": "'सूर्य + उदयः' इत्यस्य सन्धियुक्तं रूपं किम्?",
+"o": [
+"सूर्यौदयः",
+"सूर्योदयः",
+"सूर्युदयः",
+"सूर्यउदयः"
+],
+"ans": 1,
+"expl": "अ + उ = ओ (गुणसन्धिः)।",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "SA011",
+"subj": "SA",
+"topic": "सन्धि",
+"q": "'नमः + ते' इत्यस्य सन्धियुक्तं रूपं किम्?",
+"o": [
+"नमःते",
+"नमश्ते",
+"नमस्ते",
+"नमोते"
+],
+"ans": 2,
+"expl": "विसर्गस्य सकारः – 'नमस्ते'।",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+},
+{
+"id": "SA012",
+"subj": "SA",
+"topic": "समास",
+"q": "'नीलकमलम्' इत्यत्र कः समासः?",
+"o": [
+"द्विगुः",
+"अव्ययीभावः",
+"कर्मधारयः",
+"द्वन्द्वः"
+],
+"ans": 2,
+"expl": "नीलं च तत् कमलम् – विशेषण-विशेष्य कर्मधारयः।",
+"diff": "Medium",
+"src": "PRACTICE",
+"year": "",
+"shift": "",
+"qno": ""
+}
+]
