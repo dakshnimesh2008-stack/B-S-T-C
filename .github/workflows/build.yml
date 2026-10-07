@@ -7,15 +7,33 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Show repo files
-        run: find app -type f | sort
+      - name: Fix file layout
+        run: |
+          A=app/src/main/app/src/main/assets
+          D=app/src/main/assets
+          J=app/src/main/java/com/bstc/app
+          mkdir -p $D $J
+          [ -f app/Data.kt ] && mv app/Data.kt $J/
+          [ -f app/MainActivity.kt ] && mv app/MainActivity.kt $J/
+          for y in 2020 2021 2022 2023 2024; do [ -f $A/$y.pdf ] && mv $A/$y.pdf $D/paper_$y.pdf; done
+          for f in $A/2025*1st*; do [ -e "$f" ] && mv "$f" $D/paper_2025_s1.pdf; done
+          for f in $A/2025*2nd*; do [ -e "$f" ] && mv "$f" $D/paper_2025_s2.pdf; done
+          for f in $A/[Ss]yllabus*; do [ -e "$f" ] && mv "$f" $D/syllabus.pdf; done
+          for f in $A/questions.json; do [ -e "$f" ] && mv "$f" $D/questions.json; done
+          true
+      - name: Make icon
+        run: |
+          R=app/src/main/res/mipmap-xxhdpi
+          mkdir -p $R
+          [ -f $R/ic_launcher.png ] || convert -size 144x144 xc:'#1565C0' -gravity center -fill white -pointsize 44 -annotate 0 'BSTC' $R/ic_launcher.png || true
+          [ -f $R/ic_launcher.png ] && sed -i 's|android:label="BSTC"|android:label="BSTC" android:icon="@mipmap/ic_launcher"|' app/src/main/AndroidManifest.xml
+          true
       - uses: actions/setup-java@v4
         with: { distribution: temurin, java-version: 17 }
       - uses: gradle/actions/setup-gradle@v3
         with: { gradle-version: 8.7 }
       - run: gradle assembleDebug --no-daemon
-      - name: Show apk assets
-        run: unzip -l app/build/outputs/apk/debug/app-debug.apk | grep -i asset || true
+      - run: ls -l app/build/outputs/apk/debug/
       - uses: actions/upload-artifact@v4
         with:
           name: BSTC-apk
